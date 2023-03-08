@@ -1,16 +1,22 @@
-### Hi there 👋
+# <>No importa de dónde vengas. Lo único que importa es hacia dónde estás yendo.</>
 
-<!--
-**IvanMR94/IvanMR94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏻**Mi nombre es Ivan y vivo en Córdoba Capital – Argentina**. Mi primer acercamiento al aprendizaje IT fue en el comienzo de la carrera de Ing. en Sistemas, la cual interrumpí por diversos motivos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Actualidad
+
+👉🏼Actualmente soy estudiante **avanzado** de dos Tecnicaturas Superiores sobre **desarrollo web e Inteligencia Artificial** y obtuve mí certificación en **Full Stack Developer** formando parte del programa **“One – Oracle Next Education".** 
+
+## Skills
+
+👨🏻‍💻 **Algunos lenguajes y tecnologías que me gustan y que tengo conocimientos:** HTLM , CSS, JavasCript, Python, Java, Boostrap, MySql, entre otros...
+
+## Expectativas
+
+💯Realmente me apasiona la programación, sus desafíos, aprendizajes constantes y **me siento preparado para asumir nuevos retos.**
+
+## Contacto
+
+📤 **Contáctame** => iv4n.m0reno@gmail.com  
+  
+👨🏻‍💻 **Portfolio**: https://ivanmr.netlify.app/
