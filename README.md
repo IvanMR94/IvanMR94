@@ -14,3 +14,4 @@
 
 💯Realmente me apasiona la programación, sus desafíos, aprendizajes constantes y **me siento preparado para asumir nuevos retos.**
 
+💡I am a Full Stack Developer in training with hands-on experience in Frontend, Backend, Software Testing, and systems analysis. I am passionate about technology, continuous learning, and building reliable solutions. I am a proactive and team-oriented professional, always looking for new challenges and opportunities to grow within the IT industry.
