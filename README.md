@@ -4,7 +4,7 @@
 
 ## Skills
 
-👨🏻‍💻 **Algunos lenguajes y tecnologías que me gustan y que tengo conocimientos:** javascript, python, java, angular, react, sprintboot, bootstrap, mysql, entre otros...
+👨🏻‍💻 **Algunos lenguajes y tecnologías que me gustan y que tengo conocimientos:** javascript, python, java, angular, react, bootstrap, mysql, entre otros...
 
 # Actualidad
 
@@ -14,6 +14,3 @@
 
 💯Realmente me apasiona la programación, sus desafíos, aprendizajes constantes y **me siento preparado para asumir nuevos retos.**
 
-## Contacto
-  
-👨🏻‍💻 **Portfolio**: https://ivanmr.netlify.app/
